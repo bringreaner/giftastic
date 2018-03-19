@@ -1,0 +1,23 @@
+/* .body {
+    /* width: 100%; */
+    /* align-content: stretch; */
+
+body {
+    background-color: black;
+    color: wheat;
+}
+
+img {
+margin: 10px;
+border-width: 20px;
+border-color: maroon;
+}
+
+button {
+    margin: 5px;
+}
+
+.gameButton {
+    background-color: wheat;
+    color: maroon;
+}
